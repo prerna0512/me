@@ -1,0 +1,71 @@
+body{
+    margin: 0;
+    text-align: center;
+    font-family: 'Quattrocento', serif;
+    background-color: #86C8BC;
+}
+h1{
+    font-family: 'Dancing Script', cursive;
+    font-size: 625%;
+    margin: 0 auto 0 auto;
+}
+div{
+display: inline-block;
+}
+
+.pro{
+    color: red;
+}
+.sun{
+    width: 35%;
+    padding-top: 50px;
+}
+p{
+    font-size: 187%;}
+
+.top {
+    background-color: #86C8BC;
+    padding-top: 100px;
+    width: 100%;
+}
+.middle{
+    background-color: #CEEDC7;
+}
+.bottom{
+    background-color: blue;
+}
+
+.about{
+    padding-top: 30px;
+    font-size: 375%;
+}
+.me{
+width:15%;
+}
+.student{
+    font-family: 'Merriweather', serif;
+}
+.middle1{
+background-color: #FFF6BD;
+width:100%;
+}
+.coding{
+width: 10%;
+float:left;
+padding: 50px 100px;
+}
+.skill{
+    padding-top: 30px;
+    font-size: 375%;
+    text-align: left;
+}
+.lang{
+font-size: 2.5em;
+text-align: left;
+padding-bottom: 30px;
+}
+.bottom{
+background-color: #FFD4B2;
+width: 100%;
+}
+
